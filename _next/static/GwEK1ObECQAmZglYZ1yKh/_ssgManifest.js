@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgu\u002Fkey-issues","\u002Fhi\u002Fkey-issues","\u002Fkey-issues","\u002Fgu\u002Fkey-issues\u002F[type]","\u002Fhi\u002Fkey-issues\u002F[type]","\u002Fkey-issues\u002F[type]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
